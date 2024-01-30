@@ -43,11 +43,11 @@ python Q2.py
 - **Q3.py:** Implements a positional index and supports phrase queries.
 
 ## Functions
-1. **preprocess_text(text):** Perform text preprocessing.
-2. **build_positional_index(directory):** Build the positional index.
-3. **save_positional_index(positional_index, filename):** Save the positional index.
-4. **load_positional_index(filename):** Load the positional index.
-5. **phrase_query(positional_index, query):** Perform phrase queries.
+1. `preprocess_text(text)` Perform text preprocessing.
+2. `build_positional_index(directory)` Build the positional index.
+3. `save_positional_index(positional_index, filename)` Save the positional index.
+4. `load_positional_index(filename)` Load the positional index.
+5. `phrase_query(positional_index, query)` Perform phrase queries.
 
 ## Usage
 ```bash
